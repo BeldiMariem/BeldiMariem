@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariem BELDI</h1>
 <h3 align="center">Computer engineering student with a focus on software architecture.</h3>
-
+<h3 align="center"> 💞️ I am looking for an end-of-studies internship starting in February 2024 for a duration of 6 months.</h3>
+<h3 align="center">📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql</h3>
 - 📫 How to reach me **beldi.mariem.1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
