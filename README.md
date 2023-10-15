@@ -42,13 +42,6 @@
 </table>
 </div>
 
-### 👩‍💻 Most Used Programming Languages
-
-<div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beldimariem&hide=html,css&theme=synthwave&layout=compact" width="400px">
-    </a>
-</div>
 
 ### :hammer_and_wrench: Languages & Tools
 
