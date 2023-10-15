@@ -20,7 +20,7 @@
   <tr>
     <td rowspan=2>
   <a target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=ImmobiTecFullProject-Angular-SpringBoot&show_owner=%22true%22" width="400px">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=ImmobiTec-Angular-SpringBoot&show_owner=%22true%22" width="400px">
       </a>
     </td>
   </tr>
