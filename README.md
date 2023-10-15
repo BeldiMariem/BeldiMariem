@@ -28,7 +28,7 @@
   <tr>
     <td rowspan=2>
       <a target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=Symfony-Java&show_owner=%22true%22" width="400px">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=GAMIN-STORE-LEVELUP-Symfony-Java&show_owner=%22true%22" width="400px">
       </a>
     </td>
   </tr>
