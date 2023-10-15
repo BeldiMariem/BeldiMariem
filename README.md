@@ -3,7 +3,6 @@
 ### Hi 👋, I'm Mariem BELDI 🤩
 
 ### Computer engineering student with a focus on software architecture. 🚀
-💞️  I am looking for an end-of-studies internship starting in February 2024 for a duration of 6 months. <br>
 📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql.
 
 ### 📌 Pinned Repositories
