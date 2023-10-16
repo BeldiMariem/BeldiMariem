@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mariem BELDI 🤩
 
 ### Computer engineering student with a focus on software architecture. 🚀
-📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql.
+📲 Technolgies/Frameworks I work with: Vue.js, Angular,ReactJS, SpringBoot, Node.js, Express, ASP .NET Core, MongoDB, MySQL.
 
 ### 📌 Pinned Repositories
 
