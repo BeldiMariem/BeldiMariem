@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mariem BELDI 🤩
 
 ### Computer engineering student with a focus on software architecture. 🚀
-📲 Technolgies/Frameworks I work with: Vue.js, Angular,ReactJS, SpringBoot, Node.js, Express, ASP .NET Core, MongoDB, MySQL.
+📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql.
 
 ### 📌 Pinned Repositories
 
@@ -11,14 +11,14 @@
 <table>
   <tr>
     <td rowspan=2>
-      <a target="_blank">
+      <a target="_blank" href="https://github.com/BeldiMariem/CRM-APP-Vue-NodeJs">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=CRM-APP-Vue-NodeJs&show_owner=%22true%22" width="400px">
       </a>
     </td>
   </tr>
   <tr>
     <td rowspan=2>
-  <a target="_blank">
+  <a target="_blank" href="https://github.com/BeldiMariem/ImmobiTec-Angular-SpringBoot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=ImmobiTec-Angular-SpringBoot&show_owner=%22true%22" width="400px">
       </a>
     </td>
@@ -26,14 +26,14 @@
   
   <tr>
     <td rowspan=2>
-      <a target="_blank">
+      <a target="_blank" href="https://github.com/BeldiMariem/GAMING-STORE-LEVELUP-Symfony-Java">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=GAMING-STORE-LEVELUP-Symfony-Java&show_owner=%22true%22" width="400px">
       </a>
     </td>
   </tr>
    <tr>
     <td rowspan=2>
-           <a target="_blank">
+      <a target="_blank" href="https://github.com/BeldiMariem/SpringProject">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beldimariem&theme=synthwave&repo=SpringProject&show_owner=%22true%22" width="400px">
       </a>
     </td>
