@@ -5,11 +5,6 @@
 ### Computer engineering student with a focus on software architecture. 🚀
 📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql.
 
-### 📌 Pinned Repositories
-
-
-
-
 ### :hammer_and_wrench: Languages & Tools
 
 <div style="display: flex; align-items: flex-start; align: center">
