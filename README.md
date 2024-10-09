@@ -2,8 +2,8 @@
 
 ### Hi 👋, I'm Mariem BELDI 🤩
 
-### Computer engineering student with a focus on software architecture. 🚀
-📲 Technolgies/Frameworks I work with: VueJs, Angular,ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql.
+### Software Development Engineer Seeking a Permanent Contract. 🚀
+📲 Technolgies/Frameworks I work with: Angular,VueJS, ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql, Docker, Jenkins,Artifactory.
 
 ### :hammer_and_wrench: Languages & Tools
 
