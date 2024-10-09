@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mariem BELDI 🤩
 
 ### Software Development Engineer Seeking a Permanent Contract. 🚀
-📲 Technolgies/Frameworks I work with: Angular,VueJS, ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql, Docker, Jenkins,Artifactory.
+📲 Technolgies/Frameworks I work with: Angular,VueJS, ReactJs, SpringBoot, NodeJS, Express, Asp .netCore,MongoDB,Mysql, Docker, Jenkins, Artifactory.
 
 ### :hammer_and_wrench: Languages & Tools
 
