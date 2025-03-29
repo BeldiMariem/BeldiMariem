@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BeldiMariem/BeldiMariem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Mariem BELDI 🤩  
 
-Here are some ideas to get you started:
+## 🚀 Software Development Engineer | Open to Full-Time Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📍💼 Last Experience:** Full-Stack Developer Intern at Airbus, Toulouse  
+
+## :hammer_and_wrench: Technolgies & Frameworks  
+I have experience working with the following technologies and frameworks:
+
+- **Frontend:** Angular, Vue.js, React.js  
+- **Backend:** Spring Boot, Express.js, .NET  
+- **DevOps & Cloud:** Docker, Jenkins, Artifactory, AWS
+
+## ✨ Connect with me on LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-beldi) 
+</div>
