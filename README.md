@@ -1,4 +1,3 @@
-<div align="center">
 
 ## Hi 👋, I'm Mariem BELDI 🤩  
 
@@ -10,9 +9,8 @@
 I have experience working with the following technologies and frameworks:
 
 - **Frontend:** Angular, Vue.js, React.js  
-- **Backend:** Spring Boot, Express.js, .NET  
-- **DevOps & Cloud:** Docker, Jenkins, Artifactory, AWS
+- **Backend:** Spring Boot, Express.js, .NET, Go  
+- **DevOps & Cloud:** Docker, Jenkins, Artifactory, AWS, Nexus
 
 ## ✨ Connect with me on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-beldi) 
-</div>
