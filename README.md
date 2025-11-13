@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm Mariem BELDI 🤩  
+## Hi 👋, I'm Mariem BELDI  
 
 ## Software Development Engineer | Open to Full-Time Opportunities  
 
